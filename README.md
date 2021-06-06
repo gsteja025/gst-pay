@@ -1,9 +1,10 @@
 # gst-pay
 # HOW TO USE
-![2021-06-06 (3)](https://user-images.githubusercontent.com/62547559/120927803-03243d00-c697-11eb-8339-68e6db3ae1a4.png)
+![2021-06-06 (4)](https://user-images.githubusercontent.com/62547559/120928088-184d9b80-c698-11eb-94f3-2b72ddf61d70.png)
+
 Enter your login details first namely username and pin.Then it will show your credentials on screen.
 As of now there is no option for account creation.Furtherly will develop for sure.
-![2021-06-06 (2)](https://user-images.githubusercontent.com/62547559/120927768-e2f47e00-c696-11eb-9974-ea2e0e101fc1.png)
+![2021-06-06 (5)](https://user-images.githubusercontent.com/62547559/120928114-2ef3f280-c698-11eb-9814-037ebc6600b2.png)
 
 In your account you can see three sections(request loan,transfer money and delete account):
 
