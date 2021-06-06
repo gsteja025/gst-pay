@@ -3,7 +3,7 @@
 ![2021-06-06 (4)](https://user-images.githubusercontent.com/62547559/120928088-184d9b80-c698-11eb-94f3-2b72ddf61d70.png)
 
 Enter your login details first namely username and pin.Then it will show your credentials on screen.
-As of now there is no option for account creation.Furtherly will develop for sure.
+As of now there is no option for account creation.Furtherly will develop for sure.you can transfer money to another account by entering username.you can request loan by entering amount you need.It will be added as your deposits in your account.you can delete account by entering your username and pin correctly
 ![2021-06-06 (5)](https://user-images.githubusercontent.com/62547559/120928114-2ef3f280-c698-11eb-9814-037ebc6600b2.png)
 
 In your account you can see three sections(request loan,transfer money and delete account):
